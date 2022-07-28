@@ -1,13 +1,11 @@
-### Hi! I'm Lucas Xavier, Front end developer 👋
-
-<!-- Any image aligned to the right. Beware the width -->
-<!--<img width="40%" align="right" alt="Github" src="https://user-images.githubusercontent.com/68694537/181241334-e43dda1a-558e-4d17-8561-8f61b3b676e0.gif" />-->
+### Welcome! I'm Lucas Xavier, Frontend developer 👋
 
 - 🌳 I live in Maringá-PR (Green City);
 - 💻 I currently work with Angular;
 - 🏡 I work from home;
 - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge";
 - ⚡️ Fun fact: I like movies, anime and games;
+
 
 ##
 
@@ -36,10 +34,18 @@
 ![Snake animation](https://github.com/lucxavier/lucxavier/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-          
+ 
+##
+
+  
+
+
+<div align="center">
+  <img height="360em" src="https://user-images.githubusercontent.com/68694537/181241334-e43dda1a-558e-4d17-8561-8f61b3b676e0.gif"/>
+</div>
           
           
 
 
 
-Abraços!!
+### 😉😉 Have Fun!!
